@@ -34,7 +34,8 @@ module.exports = {
         },
         prerelease: false,
         draft: true
-      }
+      },
+      provider: 'github',
     }
   ],
   plugins: [
